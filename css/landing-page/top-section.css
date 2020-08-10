@@ -8,6 +8,7 @@
   padding: 15px;
   position: relative
 }
+/*
 #top .info .blue-square{
   border: 20px solid #dbf1ff;
   width: 500px;
@@ -17,6 +18,7 @@
   top: -70%;
   left: -50%;
 }
+*/
 #top .info h1{
   position: relative;
   font-size: 2rem;

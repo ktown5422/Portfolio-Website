@@ -9,9 +9,6 @@
 @import "portfolio/portfolio-projects.css";
 @import "footer-section.css";
 
-body{
-  /* background: #eeeeee; */
-}
 
 .container{
   max-width: 1150px;
@@ -31,7 +28,7 @@ header .logo{
   display: flex;
 }
 header .logo .name{
-  background: black;
+  background: orangered;
   padding: 15px 20px;
   text-decoration: none;
   color: white;
